@@ -1,0 +1,52 @@
+* {
+  font-size: 20px;
+}
+body {
+  height: 100vh;
+}
+.header, .footer {
+  height: 10%;
+  text-align: center;
+  padding-top: 20px;
+  background: violet;
+}
+.main {
+  height: 80%;
+}
+.nav{
+background: chocolate;
+}
+.ul{
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+}
+.ul li {
+  display: inline;
+  padding: 0px 30px;
+}
+.fdiv {
+  text-align: center;
+}
+.fdiv ul li {
+  display: inline;
+  padding: 0px 10px;
+}
+.fdiv p {
+  margin: 0px;
+}
+.section {
+  display: inline-block;
+  text-align: center;
+  height: 100%;
+  width: 100%;
+  background: cadetblue;
+}
+.section h2 {
+  margin: 80px 0px;
+}
+.section p {
+  width: 60%;
+  display: inline-block;
+  text-align: justify;
+}

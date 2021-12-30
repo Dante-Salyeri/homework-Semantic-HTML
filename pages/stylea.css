@@ -1,0 +1,62 @@
+* {
+  font-size: 20px;
+}
+body {
+  height: 100vh;
+}
+.header, .footer {
+  height: 10%;
+  text-align: center;
+  padding-top: 20px;
+  background: burlywood;
+}
+.main {
+  height: 80%;
+}
+.fdiv {
+  text-align: center;
+}
+.fdiv ul li {
+  display: inline;
+  padding: 0px 10px;
+}
+.fdiv p {
+  margin: 0px;
+}
+.nav {
+  vertical-align: top;
+  display: inline-block;
+  width: 15%;
+  height: 100%;
+  background: gray;
+}
+.nav ul {
+  padding: 0px;
+}
+.nav ul li{
+  margin-top: 250px;
+  text-align: center;
+}
+.aside {
+  vertical-align: top;
+  display: inline-block;
+  width: 15%;
+  height: 100%;
+  background: indianred;
+  text-align: center;
+}
+.aside p {
+  margin-top: 80px;
+}
+.section {
+  vertical-align: top;
+  display: inline-block;
+  height: 100%;
+  width: 70%;
+  text-align: justify;
+  background: green;
+}
+.section p {
+  margin: 15px;
+  padding-top: 60px;
+}
