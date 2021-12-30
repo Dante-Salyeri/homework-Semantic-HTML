@@ -6,7 +6,7 @@ body {
 }
 .header, .footer{
   height: 10%;
-  background: goldenrod;
+  background: violet;
   text-align: center;
   padding-top: 20px;
 }
@@ -25,7 +25,7 @@ body {
   display: inline-block;
   height: 100%;
   width: 15%;
-  background: burlywood;
+  background: mediumorchid;
 }
 .nav ul {
   padding: 0px;

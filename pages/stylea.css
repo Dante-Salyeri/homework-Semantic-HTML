@@ -8,7 +8,7 @@ body {
   height: 10%;
   text-align: center;
   padding-top: 20px;
-  background: burlywood;
+  background: violet;
 }
 .main {
   height: 80%;
@@ -28,7 +28,7 @@ body {
   display: inline-block;
   width: 15%;
   height: 100%;
-  background: gray;
+  background: mediumorchid;
 }
 .nav ul {
   padding: 0px;
@@ -42,7 +42,7 @@ body {
   display: inline-block;
   width: 15%;
   height: 100%;
-  background: indianred;
+  background: palevioletred;
   text-align: center;
 }
 .aside p {
@@ -54,7 +54,7 @@ body {
   height: 100%;
   width: 70%;
   text-align: justify;
-  background: green;
+  background: cadetblue;
 }
 .section p {
   margin: 15px;
