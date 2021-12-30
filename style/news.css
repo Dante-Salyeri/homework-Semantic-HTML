@@ -41,6 +41,9 @@ section {
   width: 85%;
   background: hotpink;
 }
+.sdiv {
+  padding-top: 30px;
+}
 .sdiv p{
   text-align: justify;
   margin: 10px 30px;
